@@ -35,3 +35,4 @@
 1. [Features Loop](https://aman-maharshi.github.io/animations-css-js/carousel-pure-css/)
 1. [Two Stage Animation](https://aman-maharshi.github.io/animations-css-js/two-stage-animation/)
 1. [Toggle Button](https://aman-maharshi.github.io/animations-css-js/toggle-button/)
+1. [LDT Demo](https://aman-maharshi.github.io/animations-css-js/ldt-demo/)
